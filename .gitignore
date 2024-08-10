@@ -73,3 +73,8 @@ crashlytics-build.properties
 
 # Visual Studio Code
 .vscode
+
+# Heavy Packages
+[Aa]ssets/[Pp]lugins/polyperfect/*
+[Aa]ssets/[Pp]lugins/Universal Sound FX/*
+[Aa]ssets/[Pp]lugins/AllSky/*
