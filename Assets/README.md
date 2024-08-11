@@ -13,5 +13,4 @@
 * Terrain Sample Asset Pack
 ## How to develop?
 * Import Feel
-* Import FlatKit
 * Import Terrain Sample Asset Pack

@@ -77,7 +77,7 @@ crashlytics-build.properties
 # Heavy Packages
 [Aa]ssets/FlatKit/Demos/
 [Aa]ssets/FlatKit/Demos.meta
-[Aa]ssets/Feel/*
+[Aa]ssets/Feel/
 [Aa]ssets/HDRPDefaultResources/
 [Aa]ssets/HDRPDefaultResources.meta
 [Aa]ssets/TerrainSampleAssets/
