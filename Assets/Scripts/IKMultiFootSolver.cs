@@ -14,6 +14,7 @@ public class IKMultiFootSolver : MonoBehaviour
     [SerializeField] float stepHeight = 1;
     [SerializeField] Vector3 footOffset = default;
     [SerializeField] MovingDetector movingDetector;
+    [SerializeField] Color gizmosColor = Color.red;
 
     public Guid legId;
 
@@ -33,7 +34,8 @@ public class IKMultiFootSolver : MonoBehaviour
 
     void Update()
     {
-        if (!movingDetector.IsMoving()){
+        if (!movingDetector.IsMoving())
+        {
             return;
         }
 
@@ -72,7 +74,7 @@ public class IKMultiFootSolver : MonoBehaviour
     private void OnDrawGizmos()
     {
 
-        Gizmos.color = Color.red;
+        Gizmos.color = gizmosColor;
         Gizmos.DrawSphere(newPosition, 0.5f);
     }
 
