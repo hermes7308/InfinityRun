@@ -365,7 +365,7 @@ MonoBehaviour:
     Key: Assets/Shapes
     Ordinal: 29
     Priority: 0
-    IconType: 2540
+    IconType: 530
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
@@ -377,7 +377,7 @@ MonoBehaviour:
     Key: Assets/TextMesh Pro
     Ordinal: 30
     Priority: 0
-    IconType: 2540
+    IconType: 530
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
