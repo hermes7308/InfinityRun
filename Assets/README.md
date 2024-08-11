@@ -1,5 +1,5 @@
 # Lunar Sentinel
-## Plugins
+## Plugins & Assets
 * Reinbow Folder 2
 * DOTWeen Pro
 * Joystick Pack
@@ -9,3 +9,9 @@
 * All Sky - 220* Sky / Skybox Set
 * Feel
 * Flat Kit: Toon Shading and Water
+* Terrain Tools
+* Terrain Sample Asset Pack
+## How to develop?
+* Import Feel
+* Import FlatKit
+* Import Terrain Sample Asset Pack
