@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d6ab54476a9360b42b1356bc7ec3f9e3
+guid: 829911a6aee09414190f0521d3ec4c6a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Body Color
-    second: {fileID: 2100000, guid: 2e9907f2c6ade3148b1ead45ed26c474, type: 2}
+    second: {fileID: 2100000, guid: 82acff71b0b7b5a46b07d9074c35f06c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dark
-    second: {fileID: 2100000, guid: 70908d5b67c98184abd7a1fb3d1e2628, type: 2}
+    second: {fileID: 2100000, guid: 452f16ed2362aea44a56a8927d8c6caf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Red
-    second: {fileID: 2100000, guid: 1a5c39d841a13a5478b704f9645281b2, type: 2}
+    second: {fileID: 2100000, guid: 9660068dffc16594585804d34f2af80b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
